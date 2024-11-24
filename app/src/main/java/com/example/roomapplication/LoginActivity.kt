@@ -27,7 +27,7 @@ class LoginActivity : AppCompatActivity() {
                 if (username.isEmpty() || password.isEmpty()) {
                     Toast.makeText(
                         this@LoginActivity,
-                        "Mohon isi semua data",
+                        "Tolong isikan semua data",
                         Toast.LENGTH_SHORT
                     ).show()
                 } else {
