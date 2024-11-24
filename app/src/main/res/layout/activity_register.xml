@@ -9,7 +9,7 @@
     android:padding="30dp"
     android:gravity="center"
     android:background="@color/green"
-    tools:context=".LoginActivity">
+    tools:context=".RegisterActivity">
 
     <ImageView
         android:layout_width="150dp"
