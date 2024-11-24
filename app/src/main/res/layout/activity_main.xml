@@ -36,7 +36,7 @@
         android:layout_marginBottom="20dp"
         android:textAllCaps="false"
         app:layout_constraintBottom_toTopOf="@+id/btn_logout"
-        android:background="@drawable/round_login" />
+        android:background="@drawable/rounded_background" />
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_logout"
         android:layout_width="match_parent"
@@ -50,6 +50,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:background="@drawable/round_login" />
+        android:background="@drawable/rounded_background" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
